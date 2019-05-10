@@ -10,6 +10,7 @@ run in terminal
 ```
 
 you can use the docker configs to up database
+----
 you can find at this link too https://gist.github.com/oliveira-andre/5aebc0a244c24bd54b93c5a39b83d04a
 
 ```
