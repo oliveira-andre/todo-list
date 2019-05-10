@@ -7,6 +7,7 @@ run in terminal
  cd todo-list
  echo "alias todolist="${PWD}/start.sh"" >> ~/.zshrc
  echo "alias stop_todolist="${PWD}/stop.sh"" >> ~/.zshrc
+ todolist
 ```
 
 you can use the docker configs to up database
